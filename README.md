@@ -1,2 +1,2 @@
-# Generate_Handwritten_Numbers - Using GANs
+# Generate_Handwritten_Numbers_Using_GANs
 GANs - Generative adversarial networks
